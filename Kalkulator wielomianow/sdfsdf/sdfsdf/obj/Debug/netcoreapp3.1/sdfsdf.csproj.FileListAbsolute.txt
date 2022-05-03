@@ -1,0 +1,16 @@
+C:\Users\totkj\source\repos\sdfsdf\sdfsdf\bin\Debug\netcoreapp3.1\sdfsdf.exe
+C:\Users\totkj\source\repos\sdfsdf\sdfsdf\bin\Debug\netcoreapp3.1\sdfsdf.deps.json
+C:\Users\totkj\source\repos\sdfsdf\sdfsdf\bin\Debug\netcoreapp3.1\sdfsdf.runtimeconfig.json
+C:\Users\totkj\source\repos\sdfsdf\sdfsdf\bin\Debug\netcoreapp3.1\sdfsdf.runtimeconfig.dev.json
+C:\Users\totkj\source\repos\sdfsdf\sdfsdf\bin\Debug\netcoreapp3.1\sdfsdf.dll
+C:\Users\totkj\source\repos\sdfsdf\sdfsdf\bin\Debug\netcoreapp3.1\sdfsdf.pdb
+C:\Users\totkj\source\repos\sdfsdf\sdfsdf\obj\Debug\netcoreapp3.1\sdfsdf.Form1.resources
+C:\Users\totkj\source\repos\sdfsdf\sdfsdf\obj\Debug\netcoreapp3.1\sdfsdf.csproj.GenerateResource.cache
+C:\Users\totkj\source\repos\sdfsdf\sdfsdf\obj\Debug\netcoreapp3.1\sdfsdf.AssemblyInfoInputs.cache
+C:\Users\totkj\source\repos\sdfsdf\sdfsdf\obj\Debug\netcoreapp3.1\sdfsdf.AssemblyInfo.cs
+C:\Users\totkj\source\repos\sdfsdf\sdfsdf\obj\Debug\netcoreapp3.1\sdfsdf.csproj.CoreCompileInputs.cache
+C:\Users\totkj\source\repos\sdfsdf\sdfsdf\obj\Debug\netcoreapp3.1\sdfsdf.dll
+C:\Users\totkj\source\repos\sdfsdf\sdfsdf\obj\Debug\netcoreapp3.1\sdfsdf.pdb
+C:\Users\totkj\source\repos\sdfsdf\sdfsdf\obj\Debug\netcoreapp3.1\sdfsdf.genruntimeconfig.cache
+C:\Users\totkj\source\repos\sdfsdf\sdfsdf\obj\Debug\netcoreapp3.1\sdfsdf.csprojAssemblyReference.cache
+C:\Users\totkj\source\repos\sdfsdf\sdfsdf\obj\Debug\netcoreapp3.1\sdfsdf.Properties.Resources.resources
